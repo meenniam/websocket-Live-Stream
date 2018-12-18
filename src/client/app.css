@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  src: url('./fonts/SukhumvitSet-Text.ttf'); /* IE9 Compat Modes */
+  src: local('Open Sans'), local('OpenSans'),
+      url('./fonts/SukhumvitSet-Text.ttf') format('truetype'); /* Safari, Android, iOS */
+
+}
+body {
+  font-family: 'Open Sans';
+  text-align: center;
+}
